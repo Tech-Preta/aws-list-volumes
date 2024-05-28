@@ -17,3 +17,7 @@ Este projeto lista todos os volumes e snapshots da AWS usando a biblioteca boto3
 O script irá listar todos os volumes e snapshots da AWS, e armazenará a saída em um arquivo chamado `output.json`. Ele também criará um arquivo `output.txt`.
 
 A saída inclui o ID, tamanho, tipo, zona de disponibilidade e estado de cada volume, e o ID, ID do volume, tamanho, estado e data de início de cada snapshot. Além disso, a saída inclui o total de volumes, o total de snapshots e o tamanho total em GB.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
